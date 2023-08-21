@@ -1,1 +1,1 @@
-"# curricu"  
+currículo em HTML
